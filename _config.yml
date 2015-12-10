@@ -1,7 +1,7 @@
 name: JustinBradshaw
 favicon: null
-layout_spectrum: 0.6024959371425211
-typography_spectrum: 0.4724930594675243
+layout_spectrum: 0.1737
+typography_spectrum: 0.53489
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.9485780831892043
+  brandStrength: 0.875
   lightness: 0.49535182071849704
   saturation: 0.7232125755399466
   rhythmicContrast: 0.2734366520307958

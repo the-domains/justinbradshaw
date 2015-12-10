@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Justin Bradshaw]]></title>
+        <description><![CDATA[Justin Bradshaw]]></description>
+        <link>https://thegrid.ai/justinbradshaw/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 22:05:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/justinbradshaw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taxi]]></title>
+            <description><![CDATA[<article><h1>Taxi</h1><p>Oil on zinc, 20x15cm</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1775d315-8869-455f-a40b-66b2b0fa5f9c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/justinbradshaw/taxi/index.html</link>
+            <guid isPermaLink="false">5bca4ed2-b728-4155-9b77-9d9f428d1da1</guid>
+            <pubDate>Thu, 10 Dec 2015 22:05:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Santa Maria Sopra Minerva]]></title>
+            <description><![CDATA[<article><h1>Santa Maria Sopra Minerva</h1><p>Oil on copper, 15x20cm</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1edf26c-8e45-40d6-9f8c-b8e51642a056.jpg"></article>]]></description>
+            <link>https://thegrid.ai/justinbradshaw/4e9d91d8-de52-4829-a07e-112db6d932bd/index.html</link>
+            <guid isPermaLink="false">4e9d91d8-de52-4829-a07e-112db6d932bd</guid>
+            <pubDate>Thu, 10 Dec 2015 21:37:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

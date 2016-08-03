@@ -1,20 +1,20 @@
-typography_spectrum: 0.0037869096267968416
+typography_spectrum: 0.53489
 color:
   brandColors:
-    - '#595241'
-    - '#B8AE9C'
-    - '#FFFFFF'
-    - '#ACCFCC'
-    - '#8A0917'
-  brandStrength: 0.4987505155149847
-  lightness: 0.4415376407559961
-  saturation: 0.8928320046979934
-  rhythmicContrast: 0.7069118400104344
+    - '#f0eeef'
+    - '#b5b3b8'
+    - '#6d6968'
+    - '#959394'
+    - '#60433f'
+  brandStrength: 0.875
+  lightness: 0.49535182071849704
+  saturation: 0.7232125755399466
+  rhythmicContrast: 0.25
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.9813541872426867
+layout_spectrum: 0
 analytics:
   google: null
   facebook: null
@@ -27,10 +27,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Judith
-    id: 5fcf0365-c5ea-4d9e-a0ea-2bc7eff5760f
-    type: content
+navigation: []
 favicon: null
 title: Justin Bradshaw
 description: paintings
